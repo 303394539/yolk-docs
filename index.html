@@ -10,19 +10,22 @@
     <meta name="renderer" content="webkit" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="referrer" content="no-referrer" />
-    <link rel="stylesheet" href="/yolk-docs/static/styles/c7533f.css" />
-    <link rel="stylesheet" href="/yolk-docs/static/styles/360e30.css" />
+    <link rel="stylesheet" href="/yolk-docs/static/styles/14a81f.css" />
+    <link rel="stylesheet" href="/yolk-docs/static/styles/59b925.css" />
     <script>
       window.routerBase = "/";
     </script>
     <script>
       !(function () {
-        var e = localStorage.getItem("dumi:prefers-color"),
-          t = window.matchMedia("(prefers-color-scheme: dark)").matches,
-          r = ["light", "dark", "auto"];
+        var e =
+            navigator.cookieEnabled && void 0 !== window.localStorage
+              ? localStorage.getItem("dumi:prefers-color")
+              : "auto",
+          o = window.matchMedia("(prefers-color-scheme: dark)").matches,
+          t = ["light", "dark", "auto"];
         document.documentElement.setAttribute(
           "data-prefers-color",
-          e === r[2] ? (t ? r[1] : r[0]) : r.indexOf(e) > -1 ? e : r[0]
+          e === t[2] ? (o ? t[1] : t[0]) : t.indexOf(e) > -1 ? e : t[0]
         );
       })();
     </script>
@@ -30,8 +33,8 @@
   <body>
     <div id="root"></div>
 
-    <script src="/yolk-docs/static/js/e92a33.js"></script>
-    <script src="/yolk-docs/static/js/2c5ca2.js"></script>
-    <script src="/yolk-docs/static/js/360e30.js"></script>
+    <script src="/yolk-docs/static/js/19c4d9.js"></script>
+    <script src="/yolk-docs/static/js/355e87.js"></script>
+    <script src="/yolk-docs/static/js/59b925.js"></script>
   </body>
 </html>
