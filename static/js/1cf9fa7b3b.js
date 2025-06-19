@@ -6,12 +6,12 @@ import { defineConfig } from '@baic/yolk-test';
 export default defineConfig({
   moduleNameMapper: {
     /**
-     * @description \u6D4B\u8BD5\u5185\u5BB9\u5B9E\u7528\u4E86antd-mobile\u53C2\u8003
+     * @description \u6D4B\u8BD5\u5185\u5BB9\u4F7F\u7528\u4E86antd-mobile\u53C2\u8003
      */
     // '\\\\.\\\\./\\\\.\\\\./\\\\.\\\\./components/(.*)$':
     //   '<rootDir>/node_modules/antd-mobile/cjs/components/$1',
     /**
-     * @description \u6D4B\u8BD5\u56FE\u7247\u53C2\u8003
+     * @description \u6D4B\u8BD5\u56FE\u7247\u53C2\u8003(Mapper\u6587\u4EF6\u9700\u8981\u5728<rootDir>\u8303\u56F4\u5185\uFF0C\u4E0D\u7136\u62A5\u9519\uFF0C\u6240\u4EE5\u6CA1\u6709\u5185\u7F6E)
      */
     // '\\\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$':
     //   '<rootDir>/node_modules/@ant-design/tools/lib/jest/imagePreprocessor',
