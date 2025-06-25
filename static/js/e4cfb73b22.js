@@ -1,0 +1,17 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[540],{52573:function(d,s,e){e.r(s);var u=e(98850),r=e(88147),c=e(54735),h=e(33656),m=e(85138),n=e(83399),x=e(24871),j=e(19440),i=e(54691),o=e(25567),l=e(55826),t=e(22671),_=e(70813);function a(){return(0,_.jsx)(i.dY,{children:(0,_.jsx)(l.Suspense,{fallback:(0,_.jsx)(o.Z,{}),children:(0,_.jsx)(_.Fragment,{children:(0,_.jsxs)("div",{className:"markdown",children:[(0,_.jsxs)("h2",{id:"\u67E5\u9605vitest\u4E0E\u76F8\u5173\u751F\u6001\u7F16\u5199testts\u4EE3\u7801",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u67E5\u9605vitest\u4E0E\u76F8\u5173\u751F\u6001\u7F16\u5199testts\u4EE3\u7801",children:(0,_.jsx)("span",{className:"icon icon-link"})}),"\u67E5\u9605",(0,_.jsx)("a",{href:"https://cn.vitest.dev",children:t.texts[0].value}),"\u4E0E\u76F8\u5173\u751F\u6001\uFF0C\u7F16\u5199",(0,_.jsx)("code",{children:t.texts[1].value}),"\u4EE3\u7801"]}),(0,_.jsxs)("h4",{id:"\u4F7F\u7528vitest\u6846\u67B6\u9664\u4E86\u57FA\u7840\u5185\u5BB9\u5916\u4E0B\u9762\u662F\u7279\u6B8A\u5185\u5BB9",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u4F7F\u7528vitest\u6846\u67B6\u9664\u4E86\u57FA\u7840\u5185\u5BB9\u5916\u4E0B\u9762\u662F\u7279\u6B8A\u5185\u5BB9",children:(0,_.jsx)("span",{className:"icon icon-link"})}),(0,_.jsx)("code",{children:t.texts[2].value})]}),(0,_.jsxs)("h2",{id:"\u5B89\u88C5\u5FC5\u987B",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u5B89\u88C5\u5FC5\u987B",children:(0,_.jsx)("span",{className:"icon icon-link"})}),"\u5B89\u88C5(\u5FC5\u987B)"]}),(0,_.jsx)(n.Z,{lang:"shell",children:t.texts[3].value}),(0,_.jsxs)("h2",{id:"\u914D\u7F6E",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u914D\u7F6E",children:(0,_.jsx)("span",{className:"icon icon-link"})}),"\u914D\u7F6E"]}),(0,_.jsx)(n.Z,{lang:"ts",children:t.texts[4].value}),(0,_.jsx)(n.Z,{lang:"json",children:t.texts[5].value}),(0,_.jsxs)("h2",{id:"\u4F7F\u7528",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u4F7F\u7528",children:(0,_.jsx)("span",{className:"icon icon-link"})}),"\u4F7F\u7528"]}),(0,_.jsx)(n.Z,{lang:"shell",children:t.texts[6].value}),(0,_.jsxs)("h2",{id:"yolk\u4E2D\u4F7F\u7528",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#yolk\u4E2D\u4F7F\u7528",children:(0,_.jsx)("span",{className:"icon icon-link"})}),(0,_.jsx)("code",{children:t.texts[7].value}),"\u4E2D\u4F7F\u7528"]}),(0,_.jsx)(n.Z,{lang:"shell",children:t.texts[8].value})]})})})})}s.default=a},22671:function(d,s,e){e.r(s),e.d(s,{texts:function(){return u}});const u=[{value:"Vitest",paraId:0},{value:"*.test.ts",paraId:0},{value:"\u4F7F\u7528vitest\u6846\u67B6\uFF0C\u9664\u4E86\u57FA\u7840\u5185\u5BB9\u5916\uFF0C\u4E0B\u9762\u662F\u7279\u6B8A\u5185\u5BB9",paraId:0},{value:`npm install --save-dev playwright
+npx playwright install
+`,paraId:1,tocIndex:2},{value:`// <rootDir>/yest.config.ts
+import { defineConfig } from '@baic/yolk-test/vitest';
+
+export default defineConfig();
+`,paraId:2,tocIndex:3},{value:`// <rootDir>/tsconfig.json
+// \u9700\u8981\u8865\u5145\u7684\u914D\u7F6E
+{
+  "compilerOptions": {
+    // ... \u5176\u4ED6
+    "types": ["@baic/yolk-test/vitest/types"]
+  }
+}
+`,paraId:3,tocIndex:3},{value:`yest run --framework vitest
+`,paraId:4,tocIndex:4},{value:"yolk",paraId:0},{value:`yolk test --framework vitest
+`,paraId:5,tocIndex:5}]}}]);
