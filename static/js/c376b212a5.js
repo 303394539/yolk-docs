@@ -45,7 +45,7 @@ describe('Component', () => {
     expect(container).toMatchSnapshot();
   });
 });
-`,paraId:3,tocIndex:3},{value:"react hook",paraId:0},{value:`/**
+`,paraId:3,tocIndex:3},{value:"React Hook",paraId:0},{value:`/**
  * ./useData.ts
  */
 const useData = () => {
@@ -73,7 +73,7 @@ describe('hook', () => {
     expect(result.current.data).toStrictEqual({});
   });
 });
-`,paraId:4,tocIndex:4},{value:"Http server",paraId:0},{value:`/**
+`,paraId:4,tocIndex:4},{value:"Http Server",paraId:0},{value:`/**
  * ./__yest__/index.test.ts
  */
 import { http, HttpResponse } from 'msw';
