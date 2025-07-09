@@ -1,4 +1,10 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[742],{1753:function(o,n,e){e.r(n);var s=e(87593),d=e(88651),c=e(95299),m=e(45576),h=e(58751),i=e(75506),x=e(62714),b=e(35844),l=e(48513),r=e(53355),u=e(55826),t=e(91624),_=e(70813);function a(){return(0,_.jsx)(l.dY,{children:(0,_.jsx)(u.Suspense,{fallback:(0,_.jsx)(r.Z,{}),children:(0,_.jsx)(_.Fragment,{children:(0,_.jsxs)("div",{className:"markdown",children:[(0,_.jsxs)("h4",{id:"\u884C\u4E3A\u9A71\u52A8\u5F00\u53D1bdd\u7684\u65B9\u5F0F\u6765\u7F16\u5199\u548C\u8FD0\u884C\u6D4B\u8BD5",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u884C\u4E3A\u9A71\u52A8\u5F00\u53D1bdd\u7684\u65B9\u5F0F\u6765\u7F16\u5199\u548C\u8FD0\u884C\u6D4B\u8BD5",children:(0,_.jsx)("span",{className:"icon icon-link"})}),(0,_.jsx)("code",{children:t.texts[0].value})]}),(0,_.jsxs)("h2",{id:"\u884C\u4E3A\u5B9A\u4E49",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u884C\u4E3A\u5B9A\u4E49",children:(0,_.jsx)("span",{className:"icon icon-link"})}),"\u884C\u4E3A\u5B9A\u4E49"]}),(0,_.jsx)(i.Z,{lang:"feature",children:t.texts[1].value}),(0,_.jsxs)("h2",{id:"\u6D4B\u8BD5\u5F00\u53D1",children:[(0,_.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u6D4B\u8BD5\u5F00\u53D1",children:(0,_.jsx)("span",{className:"icon icon-link"})}),"\u6D4B\u8BD5\u5F00\u53D1"]}),(0,_.jsx)(i.Z,{lang:"tsx",children:t.texts[2].value})]})})})})}n.default=a},91624:function(o,n,e){e.r(n),e.d(n,{texts:function(){return s}});const s=[{value:"\u884C\u4E3A\u9A71\u52A8\u5F00\u53D1\uFF08BDD\uFF09\u7684\u65B9\u5F0F\u6765\u7F16\u5199\u548C\u8FD0\u884C\u6D4B\u8BD5",paraId:0},{value:`/**
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[742],{1753:function(l,t,_){_.r(t);var i=_(87593),d=_(88651),c=_(95299),m=_(45576),h=_(58751),s=_(75506),x=_(62714),b=_(35844),u=_(48513),o=_(53355),r=_(55826),n=_(91624),e=_(70813);function a(){return(0,e.jsx)(u.dY,{children:(0,e.jsx)(r.Suspense,{fallback:(0,e.jsx)(o.Z,{}),children:(0,e.jsx)(e.Fragment,{children:(0,e.jsxs)("div",{className:"markdown",children:[(0,e.jsxs)("h4",{id:"\u884C\u4E3A\u9A71\u52A8\u5F00\u53D1bdd\u7684\u65B9\u5F0F\u6765\u7F16\u5199\u548C\u8FD0\u884C\u6D4B\u8BD5",children:[(0,e.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u884C\u4E3A\u9A71\u52A8\u5F00\u53D1bdd\u7684\u65B9\u5F0F\u6765\u7F16\u5199\u548C\u8FD0\u884C\u6D4B\u8BD5",children:(0,e.jsx)("span",{className:"icon icon-link"})}),(0,e.jsx)("code",{children:n.texts[0].value})]}),(0,e.jsxs)("h3",{id:"vscode-\u96C6\u6210",children:[(0,e.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#vscode-\u96C6\u6210",children:(0,e.jsx)("span",{className:"icon icon-link"})}),"VSCode \u96C6\u6210"]}),(0,e.jsxs)("ul",{children:[(0,e.jsxs)("li",{children:[n.texts[1].value,(0,e.jsx)("code",{children:n.texts[2].value})]}),(0,e.jsx)("li",{children:n.texts[3].value})]}),(0,e.jsx)(s.Z,{lang:"json",children:n.texts[4].value}),(0,e.jsxs)("h2",{id:"\u884C\u4E3A\u5B9A\u4E49",children:[(0,e.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u884C\u4E3A\u5B9A\u4E49",children:(0,e.jsx)("span",{className:"icon icon-link"})}),"\u884C\u4E3A\u5B9A\u4E49"]}),(0,e.jsx)(s.Z,{lang:"feature",children:n.texts[5].value}),(0,e.jsxs)("h2",{id:"\u6D4B\u8BD5\u5F00\u53D1",children:[(0,e.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u6D4B\u8BD5\u5F00\u53D1",children:(0,e.jsx)("span",{className:"icon icon-link"})}),"\u6D4B\u8BD5\u5F00\u53D1"]}),(0,e.jsx)(s.Z,{lang:"tsx",children:n.texts[6].value})]})})})})}t.default=a},91624:function(l,t,_){_.r(t),_.d(t,{texts:function(){return i}});const i=[{value:"\u884C\u4E3A\u9A71\u52A8\u5F00\u53D1\uFF08BDD\uFF09\u7684\u65B9\u5F0F\u6765\u7F16\u5199\u548C\u8FD0\u884C\u6D4B\u8BD5",paraId:0},{value:"\u5B89\u88C5\u63D2\u4EF6 ",paraId:1,tocIndex:1},{value:"Cucumber (Gherkin) Full Support",paraId:1,tocIndex:1},{value:"\u589E\u52A0\u914D\u7F6E",paraId:1,tocIndex:1},{value:`/**
+ * .vscode/settings.json \u6216\u8005\u6539\u63D2\u4EF6\u9ED8\u8BA4\u914D\u7F6E
+ */
+{
+  "cucumberautocomplete.steps": ["**/*.test.ts", "**/*.test.tsx", "**/*.test.js", "**/*.test.jsx"]
+}
+`,paraId:2,tocIndex:1},{value:`/**
  * __yest__/features/timer/index.feature
  */
 
@@ -14,7 +20,7 @@ Feature: \u5012\u8BA1\u65F6\u6309\u94AE
     When \u7ECF\u8FC7 1 s\u4EE5\u540E
     Then \u6309\u94AE\u7684\u6587\u6848\u4E3A \u83B7\u53D6\u9A8C\u8BC1\u7801
 
-`,paraId:1,tocIndex:1},{value:`/**
+`,paraId:3,tocIndex:2},{value:`/**
  * __yest__/features/timer/index.tsx.tsx
  */
 
@@ -92,4 +98,4 @@ defineFeature(feature, (test) => {
   });
 });
 
-`,paraId:2,tocIndex:2}]}}]);
+`,paraId:4,tocIndex:3}]}}]);
