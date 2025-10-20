@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[2655],{62655:function(l,r,n){n.r(r),n.d(r,{taro_horizontal_drag_gesture_handler_core:function(){return s}});var o=n(40573),t=n(15956);const s=class{constructor(a){(0,o.r)(this,a)}componentDidLoad(){(0,t.n)("HorizontalDragGestureHandler",this)}render(){return(0,o.h)(o.H,null)}};var d=n(76445)}}]);

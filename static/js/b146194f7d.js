@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[8954],{28954:function(d,t,o){o.r(t),o.d(t,{taro_slot_core:function(){return l}});var n=o(40573),s=o(15956);const l=class{constructor(c){(0,n.r)(this,c)}componentDidLoad(){(0,s.n)("Slot",this)}render(){return(0,n.h)(n.H,null)}};var r=o(76445)}}]);

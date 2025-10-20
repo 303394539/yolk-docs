@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[9679],{79679:function(l,o,n){n.r(o),n.d(o,{taro_draggable_sheet_core:function(){return e}});var t=n(40573),s=n(15956);const e=class{constructor(a){(0,t.r)(this,a)}componentDidLoad(){(0,s.n)("DraggableSheet",this)}render(){return(0,t.h)(t.H,null)}};var r=n(76445)}}]);
