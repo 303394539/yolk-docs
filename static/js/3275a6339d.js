@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[4705],{94705:function(u,o,n){n.r(o),n.d(o,{taro_official_account_core:function(){return s}});var c=n(40573),t=n(15956);const s=class{constructor(l){(0,c.r)(this,l)}componentDidLoad(){(0,t.n)("OfficialAccount",this)}render(){return(0,c.h)(c.H,null)}};var a=n(76445)}}]);

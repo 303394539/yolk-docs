@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[8275],{78275:function(d,o,n){n.r(o),n.d(o,{taro_comment_list_core:function(){return c}});var t=n(40573),s=n(15956);const c=class{constructor(l){(0,t.r)(this,l)}componentDidLoad(){(0,s.n)("CommentList",this)}render(){return(0,t.h)(t.H,null)}};var r=n(76445)}}]);

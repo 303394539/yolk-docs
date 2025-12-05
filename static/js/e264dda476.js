@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[4449],{64449:function(s,l,n){n.r(l),n.d(l,{taro_inline_payment_panel_core:function(){return a}});var t=n(33103),o=n(9173);const a=class{constructor(e){(0,t.r)(this,e)}componentDidLoad(){(0,o.n)("InlinePaymentPanel",this)}render(){return(0,t.h)(t.H,null)}};var c=n(92252)}}]);

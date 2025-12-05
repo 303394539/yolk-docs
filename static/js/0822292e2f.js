@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[4518],{47392:function(d,a,n){n.r(a),n.d(a,{taro_aweme_data_core:function(){return s}});var t=n(33103),o=n(9173);const s=class{constructor(e){(0,t.r)(this,e)}componentDidLoad(){(0,o.n)("AwemeData",this)}render(){return(0,t.h)(t.H,null)}};var c=n(92252)}}]);

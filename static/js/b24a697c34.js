@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[9666],{9666:function(c,s,o){o.r(s),o.d(s,{taro_nested_scroll_body_core:function(){return d}});var n=o(33103),t=o(9173);const d=class{constructor(l){(0,n.r)(this,l)}componentDidLoad(){(0,t.n)("NestedScrollBody",this)}render(){return(0,n.h)(n.H,null)}};var r=o(92252)}}]);

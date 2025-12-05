@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[5956],{25956:function(e,o,n){n.r(o),n.d(o,{taro_comment_detail_core:function(){return l}});var t=n(33103),s=n(9173);const l=class{constructor(a){(0,t.r)(this,a)}componentDidLoad(){(0,s.n)("CommentDetail",this)}render(){return(0,t.h)(t.H,null)}};var c=n(92252)}}]);
