@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[4475],{64475:function(e,l,n){n.r(l),n.d(l,{taro_channel_live_core:function(){return t}});var o=n(33103),s=n(9173);const t=class{constructor(a){(0,o.r)(this,a)}componentDidLoad(){(0,s.n)("ChannelLive",this)}render(){return(0,o.h)(o.H,null)}};var c=n(92252)}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[966],{20966:function(d,s,n){n.r(s),n.d(s,{taro_span_core:function(){return a}});var o=n(33103),t=n(9173);const a=class{constructor(c){(0,o.r)(this,c)}componentDidLoad(){(0,t.n)("Span",this)}render(){return(0,o.h)(o.H,null)}};var l=n(92252)}}]);

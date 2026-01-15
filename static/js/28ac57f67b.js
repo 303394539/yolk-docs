@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[6241],{26241:function(e,t,n){n.r(t),n.d(t,{taro_open_container_core:function(){return r}});var o=n(33103),s=n(9173);const r=class{constructor(a){(0,o.r)(this,a)}componentDidLoad(){(0,s.n)("OpenContainer",this)}render(){return(0,o.h)(o.H,null)}};var c=n(92252)}}]);

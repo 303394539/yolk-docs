@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[7977],{37977:function(d,s,n){n.r(s),n.d(s,{taro_login_core:function(){return l}});var o=n(33103),t=n(9173);const l=class{constructor(c){(0,o.r)(this,c)}componentDidLoad(){(0,t.n)("Login",this)}render(){return(0,o.h)(o.H,null)}};var r=n(92252)}}]);

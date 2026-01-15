@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[5699],{95699:function(d,n,t){t.r(n),t.d(n,{taro_lottie_core:function(){return l}});var o=t(36091),s=t(2282);const l=class{constructor(c){(0,o.r)(this,c)}componentDidLoad(){(0,s.n)("Lottie",this)}render(){return(0,o.h)(o.H,null)}};var r=t(9161)}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[9781],{29781:function(a,l,n){n.r(l),n.d(l,{taro_live_player_core:function(){return t}});var o=n(33103),s=n(9173);const t=class{constructor(r){(0,o.r)(this,r)}componentDidLoad(){(0,s.n)("LivePlayer",this)}render(){return(0,o.h)(o.H,null)}};var e=n(92252)}}]);

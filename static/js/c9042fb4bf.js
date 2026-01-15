@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[2196],{72196:function(r,s,n){n.r(s),n.d(s,{taro_scale_gesture_handler_core:function(){return l}});var e=n(33103),t=n(9173);const l=class{constructor(o){(0,e.r)(this,o)}componentDidLoad(){(0,t.n)("ScaleGestureHandler",this)}render(){return(0,e.h)(e.H,null)}};var a=n(92252)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[9868],{79868:function(d,t,o){o.r(t),o.d(t,{taro_rtc_room_core:function(){return c}});var n=o(36091),s=o(2282);const c=class{constructor(r){(0,n.r)(this,r)}componentDidLoad(){(0,s.n)("RtcRoom",this)}render(){return(0,n.h)(n.H,null)}};var l=o(9161)}}]);

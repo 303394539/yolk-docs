@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[5890],{95890:function(a,s,n){n.r(s),n.d(s,{taro_channel_video_core:function(){return d}});var o=n(36091),t=n(2282);const d=class{constructor(l){(0,o.r)(this,l)}componentDidLoad(){(0,t.n)("ChannelVideo",this)}render(){return(0,o.h)(o.H,null)}};var e=n(9161)}}]);

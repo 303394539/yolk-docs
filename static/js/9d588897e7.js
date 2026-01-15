@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[3573],{3573:function(r,e,n){n.r(e),n.d(e,{taro_share_element_core:function(){return s}});var t=n(36091),o=n(2282);const s=class{constructor(l){(0,t.r)(this,l)}componentDidLoad(){(0,o.n)("ShareElement",this)}render(){return(0,t.h)(t.H,null)}};var a=n(9161)}}]);
