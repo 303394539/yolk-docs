@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[1043],{11043:function(n,_,o){o.r(_),o.d(_,{taro_open_data_core:function(){return t.O}});var t=o(24822),a=o(9161),s=o.n(a)}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[8822],{78822:function(a,n,o){o.r(n),o.d(n,{taro_root_portal_core:function(){return s}});var t=o(36091),r=o(2282);const s=class{constructor(l){(0,t.r)(this,l)}componentDidLoad(){(0,r.n)("RootPortal",this)}render(){return(0,t.h)(t.H,null)}};var c=o(9161)}}]);

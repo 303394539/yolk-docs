@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[3714],{93714:function(c,s,o){o.r(s),o.d(s,{taro_ad_custom_core:function(){return d}});var n=o(36091),t=o(2282);const d=class{constructor(u){(0,n.r)(this,u)}componentDidLoad(){(0,t.n)("AdCustom",this)}render(){return(0,n.h)(n.H,null)}};var a=o(9161)}}]);

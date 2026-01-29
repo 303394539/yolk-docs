@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[7146],{7146:function(l,a,n){n.r(a),n.d(a,{taro_functional_page_navigator_core:function(){return s}});var o=n(36091),t=n(2282);const s=class{constructor(c){(0,o.r)(this,c)}componentDidLoad(){(0,t.n)("FunctionalPageNavigator",this)}render(){return(0,o.h)(o.H,null)}};var r=n(9161)}}]);

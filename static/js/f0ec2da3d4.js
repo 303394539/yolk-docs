@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[1592],{31592:function(a,o,t){t.r(o),t.d(o,{taro_native_slot_core:function(){return l}});var n=t(90779),s=t(84540);const l=class{constructor(c){(0,n.r)(this,c)}componentDidLoad(){(0,s.n)("NativeSlot",this)}render(){return(0,n.h)(n.H,null)}};var d=t(54998)}}]);

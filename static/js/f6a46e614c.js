@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[8471],{8471:function(c,s,n){n.r(s),n.d(s,{taro_grid_view_core:function(){return d}});var o=n(36091),t=n(2282);const d=class{constructor(r){(0,o.r)(this,r)}componentDidLoad(){(0,t.n)("GridView",this)}render(){return(0,o.h)(o.H,null)}};var i=n(9161)}}]);

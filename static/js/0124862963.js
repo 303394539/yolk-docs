@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[5284],{75284:function(a,o,t){t.r(o),t.d(o,{taro_contact_button_core:function(){return s}});var n=t(36091),c=t(2282);const s=class{constructor(u){(0,n.r)(this,u)}componentDidLoad(){(0,c.n)("ContactButton",this)}render(){return(0,n.h)(n.H,null)}};var d=t(9161)}}]);

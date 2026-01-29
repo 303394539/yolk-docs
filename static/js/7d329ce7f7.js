@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[4196],{94196:function(a,t,n){n.r(t),n.d(t,{taro_pan_gesture_handler_core:function(){return r}});var s=n(90779),o=n(84540);const r=class{constructor(e){(0,s.r)(this,e)}componentDidLoad(){(0,o.n)("PanGestureHandler",this)}render(){return(0,s.h)(s.H,null)}};var d=n(54998)}}]);

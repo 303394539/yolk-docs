@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[5442],{45442:function(d,o,n){n.r(o),n.d(o,{taro_tabs_core:function(){return a}});var s=n(36091),t=n(2282);const a=class{constructor(c){(0,s.r)(this,c)}componentDidLoad(){(0,t.n)("Tabs",this)}render(){return(0,s.h)(s.H,null)}};var l=n(9161)}}]);

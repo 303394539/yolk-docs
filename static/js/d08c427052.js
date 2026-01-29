@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[2511],{32511:function(d,t,n){n.r(t),n.d(t,{taro_list_view_core:function(){return l}});var s=n(36091),o=n(2282);const l=class{constructor(c){(0,s.r)(this,c)}componentDidLoad(){(0,o.n)("ListView",this)}render(){return(0,s.h)(s.H,null)}};var i=n(9161)}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[6284],{76284:function(c,t,n){n.r(t),n.d(t,{taro_lifestyle_core:function(){return l}});var s=n(36091),o=n(2282);const l=class{constructor(e){(0,s.r)(this,e)}componentDidLoad(){(0,o.n)("Lifestyle",this)}render(){return(0,s.h)(s.H,null)}};var d=n(9161)}}]);
