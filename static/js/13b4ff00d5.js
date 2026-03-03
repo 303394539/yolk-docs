@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[1240],{1240:function(c,s,n){n.r(s),n.d(s,{taro_camera_core:function(){return a}});var o=n(88066),t=n(48924);const a=class{constructor(r){(0,o.r)(this,r)}componentDidLoad(){(0,t.n)("Camera",this)}render(){return(0,o.h)(o.H,null)}};var d=n(54598)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[837],{50837:function(t,_,o){o.r(_),o.d(_,{taro_scroll_view_core:function(){return s.S}});var s=o(83292),l=o(54598),n=o.n(l)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[7694],{87694:function(a,t,n){n.r(t),n.d(t,{taro_animation_video_core:function(){return d}});var o=n(88066),s=n(48924);const d=class{constructor(i){(0,o.r)(this,i)}componentDidLoad(){(0,s.n)("AnimationVideo",this)}render(){return(0,o.h)(o.H,null)}};var c=n(54598)}}]);

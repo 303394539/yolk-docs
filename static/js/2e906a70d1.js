@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[4511],{44511:function(r,t,n){n.r(t),n.d(t,{taro_double_tap_gesture_handler_core:function(){return s}});var o=n(88066),e=n(48924);const s=class{constructor(l){(0,o.r)(this,l)}componentDidLoad(){(0,e.n)("DoubleTapGestureHandler",this)}render(){return(0,o.h)(o.H,null)}};var u=n(54598)}}]);
