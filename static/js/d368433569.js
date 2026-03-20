@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[89],{89:function(l,o,n){n.r(o),n.d(o,{taro_long_press_gesture_handler_core:function(){return e}});var s=n(87524),r=n(24850);const e=class{constructor(t){(0,s.r)(this,t)}componentDidLoad(){(0,r.n)("LongPressGestureHandler",this)}render(){return(0,s.h)(s.H,null)}};var d=n(10511)}}]);

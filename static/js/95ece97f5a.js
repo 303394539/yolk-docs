@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[1388],{41388:function(e,o,n){n.r(o),n.d(o,{taro_page_meta_core:function(){return a}});var t=n(87524),s=n(24850);const a=class{constructor(c){(0,t.r)(this,c)}componentDidLoad(){(0,s.n)("PageMeta",this)}render(){return(0,t.h)(t.H,null)}};var d=n(10511)}}]);

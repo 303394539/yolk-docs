@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[2007],{32007:function(d,s,o){o.r(s),o.d(s,{taro_voip_room_core:function(){return c}});var n=o(87524),t=o(24850);const c=class{constructor(r){(0,n.r)(this,r)}componentDidLoad(){(0,t.n)("VoipRoom",this)}render(){return(0,n.h)(n.H,null)}};var l=o(10511)}}]);

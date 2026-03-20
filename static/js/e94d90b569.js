@@ -1,0 +1,8 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[7697],{41098:function(d,t,_){_.r(t);var s=_(57185),a=_(59659),c=_(79133),r=_(39809),h=_(20845),n=_(93951),x=_(71554),p=_(29320),u=_(20031),i=_(99024),l=_(94977),o=_(6492),e=_(74732);function m(){return(0,e.jsx)(u.dY,{children:(0,e.jsx)(l.Suspense,{fallback:(0,e.jsx)(i.Z,{}),children:(0,e.jsx)(e.Fragment,{children:(0,e.jsxs)("div",{className:"markdown",children:[(0,e.jsxs)("h3",{id:"wechat",children:[(0,e.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#wechat",children:(0,e.jsx)("span",{className:"icon icon-link"})}),"Wechat"]}),(0,e.jsxs)("h5",{id:"\u5FAE\u4FE1\u516C\u4F17\u53F7-sdk-\u5E93\u5305\u542B-sdk-\u6240\u6709\u65B9\u6CD5\u548C\u6269\u5C55\u65B9\u6CD5",children:[(0,e.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#\u5FAE\u4FE1\u516C\u4F17\u53F7-sdk-\u5E93\u5305\u542B-sdk-\u6240\u6709\u65B9\u6CD5\u548C\u6269\u5C55\u65B9\u6CD5",children:(0,e.jsx)("span",{className:"icon icon-link"})}),"\u5FAE\u4FE1\u516C\u4F17\u53F7 SDK \u5E93\uFF0C\u5305\u542B sdk \u6240\u6709\u65B9\u6CD5\u548C\u6269\u5C55\u65B9\u6CD5"]}),(0,e.jsx)(n.Z,{lang:"tsx",children:o.texts[0].value}),(0,e.jsx)(n.Z,{lang:"tsx",children:o.texts[1].value})]})})})})}t.default=m},6492:function(d,t,_){_.r(t),_.d(t,{texts:function(){return s}});const s=[{value:`import { Wechat } from '@baic/yolk-offiaccount';
+
+Wechat.closeWindow(); // \u5173\u95ED\u7A97\u53E3
+`,paraId:0,tocIndex:1},{value:`// \u63A5\u5408yolk-umi \u53EF\u901A\u8FC7umi\u76F4\u63A5\u4F7F\u7528
+import { Wechat } from 'umi';
+
+Wechat.closeWindow(); // \u5173\u95ED\u7A97\u53E3
+`,paraId:1,tocIndex:1}]}}]);

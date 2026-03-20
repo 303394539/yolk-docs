@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[5641],{55641:function(d,n,o){o.r(n),o.d(n,{taro_keyboard_accessory_core:function(){return r}});var s=o(87524),c=o(24850);const r=class{constructor(t){(0,s.r)(this,t)}componentDidLoad(){(0,c.n)("KeyboardAccessory",this)}render(){return(0,s.h)(s.H,null)}};var a=o(10511)}}]);

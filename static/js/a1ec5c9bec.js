@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[9409],{59409:function(r,o,n){n.r(o),n.d(o,{taro_sticky_header_core:function(){return c}});var t=n(87524),s=n(24850);const c=class{constructor(d){(0,t.r)(this,d)}componentDidLoad(){(0,s.n)("StickyHeader",this)}render(){return(0,t.h)(t.H,null)}};var e=n(10511)}}]);

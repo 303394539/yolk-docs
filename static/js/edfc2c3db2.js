@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[754],{754:function(a,l,o){o.r(l),o.d(l,{taro_follow_swan_core:function(){return t}});var n=o(88066),s=o(48924);const t=class{constructor(c){(0,n.r)(this,c)}componentDidLoad(){(0,s.n)("FollowSwan",this)}render(){return(0,n.h)(n.H,null)}};var d=o(54598)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[951],{951:function(r,t,n){n.r(t),n.d(t,{taro_list_builder_core:function(){return l}});var s=n(87524),o=n(24850);const l=class{constructor(d){(0,s.r)(this,d)}componentDidLoad(){(0,o.n)("ListBuilder",this)}render(){return(0,s.h)(s.H,null)}};var u=n(10511)}}]);

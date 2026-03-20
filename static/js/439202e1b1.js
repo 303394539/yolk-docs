@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[3396],{63396:function(c,n,s){s.r(n),s.d(n,{taro_force_press_gesture_handler_core:function(){return o}});var r=s(87524),e=s(24850);const o=class{constructor(t){(0,r.r)(this,t)}componentDidLoad(){(0,e.n)("ForcePressGestureHandler",this)}render(){return(0,r.h)(r.H,null)}};var d=s(10511)}}]);

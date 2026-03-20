@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[9387],{59387:function(c,t,n){n.r(t),n.d(t,{taro_navigation_bar_core:function(){return s}});var o=n(87524),a=n(24850);const s=class{constructor(r){(0,o.r)(this,r)}componentDidLoad(){(0,a.n)("NavigationBar",this)}render(){return(0,o.h)(o.H,null)}};var d=n(10511)}}]);

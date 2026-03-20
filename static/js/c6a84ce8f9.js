@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyolk_docs=self.webpackChunkyolk_docs||[]).push([[6020],{58319:function(d,o,n){n.r(o),n.d(o,{taro_match_media_core:function(){return s}});var t=n(87524),c=n(24850);const s=class{constructor(a){(0,t.r)(this,a)}componentDidLoad(){(0,c.n)("MatchMedia",this)}render(){return(0,t.h)(t.H,null)}};var h=n(10511)}}]);
